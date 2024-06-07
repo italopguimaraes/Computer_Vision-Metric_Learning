@@ -43,10 +43,8 @@ reconhecimento da pessoa do item 4
 
 ## Começando
 
-## Starting
-
 ### Google Colab Notebook:
-1) Salve uma cópia no google drive do notebook, à partir da url abaixo, e execute as células do notebook sequencialmente preferencialmente na gpu:
+1) Salve Uma Cópia no Google Drive do Notebook, à Partir da Url Abaixo, e Execute as Células do Notebook Sequencialmente Preferencialmente na GPU:
 
 https://colab.research.google.com/drive/1f-GXO_XrH0MJ5sH8XxFmRsd9Ol2aiPjy?usp=sharing
 
